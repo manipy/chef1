@@ -1,4 +1,4 @@
-#
+# test for fit push mani
 # Cookbook:: workstation
 # Recipe:: default
 #
